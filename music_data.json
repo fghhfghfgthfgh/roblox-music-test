@@ -1,0 +1,46 @@
+{
+  "tracks": [
+    {
+      "Id": 7,
+      "Name": "Discord Bot Track",
+      "Artist": "Discord DJ",
+      "Image": "rbxassetid://13748053372291",
+      "AudioId1": "rbxassetid://1841647093",
+      "Duration": "3:21",
+      "IsDualTrack": false,
+      "AlbumId": 6
+    },
+    {
+      "Id": 8,
+      "Name": "Server Vibes",
+      "Artist": "Bot Creator",
+      "Image": "rbxassetid://12747888815300",
+      "AudioId1": "rbxassetid://9043887091",
+      "Duration": "2:45",
+      "IsDualTrack": false,
+      "AlbumId": 6
+    }
+  ],
+  "albums": [
+    {
+      "Id": 6,
+      "Name": "Discord Collection",
+      "Artist": "Various Discord Artists",
+      "Image": "rbxassetid://13748053372291",
+      "Description": "Tracks added via Discord Bot",
+      "BackgroundColor": [30, 144, 255],
+      "Tracks": []
+    }
+  ],
+  "playlists": [
+    {
+      "Name": "Discord Bot Playlist",
+      "Tracks": [7, 8]
+    }
+  ],
+  "featured": {
+    "title": "Discord Bot Picks",
+    "description": "Featured tracks selected by the Discord Bot",
+    "tracks": [7, 8]
+  }
+}
