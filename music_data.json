@@ -1,4 +1,5 @@
 {
+{
   "tracks": [
     {
       "Id": 7,
@@ -19,16 +20,6 @@
       "Duration": "2:45",
       "IsDualTrack": false,
       "AlbumId": 6
-    },
-    {
-      "Id": 9,
-      "Name": "Awesome Song",
-      "Artist": "Cool Artist",
-      "Image": "rbxassetid://12345679",
-      "AudioId1": "rbxassetid://98765432",
-      "Duration": "3:45",
-      "IsDualTrack": false,
-      "AlbumId": 1
     }
   ],
   "albums": [
@@ -38,30 +29,19 @@
       "Artist": "Various Discord Artists",
       "Image": "rbxassetid://13748053372291",
       "Description": "Tracks added via Discord Bot",
-      "BackgroundColor": [
-        30,
-        144,
-        255
-      ],
+      "BackgroundColor": [30, 144, 255],
       "Tracks": []
     }
   ],
   "playlists": [
     {
       "Name": "Discord Bot Playlist",
-      "Tracks": [
-        7,
-        8
-      ]
+      "Tracks": [7, 8]
     }
   ],
   "featured": {
     "title": "Discord Bot Picks",
     "description": "Featured tracks selected by the Discord Bot",
-    "tracks": [
-      7,
-      8,
-      9
-    ]
+    "tracks": [7, 8]
   }
 }
