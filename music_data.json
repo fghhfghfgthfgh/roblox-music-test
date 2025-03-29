@@ -29,6 +29,16 @@
       "Duration": "1:04",
       "IsDualTrack": false,
       "AlbumId": 100
+    },
+    {
+      "Id": 10,
+      "Name": "Test2",
+      "Artist": "David",
+      "Image": "rbxassetid://114871773675566",
+      "AudioId1": "rbxassetid://1848028342",
+      "Duration": "1:04",
+      "IsDualTrack": false,
+      "AlbumId": 100
     }
   ],
   "albums": [
@@ -61,7 +71,8 @@
     "tracks": [
       7,
       8,
-      9
+      9,
+      10
     ]
   }
 }
