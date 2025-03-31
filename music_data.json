@@ -63,5 +63,17 @@
   ],
   "albums": [],
   "playlists": [],
-  "soundboards": []
+  "soundboards": [
+    {
+      "Id": 1,
+      "Type": "SoundEffect",
+      "Name": "test",
+      "Artist": "Sound Effects",
+      "Category": "Cartoon",
+      "Image": "rbxassetid://43987598345",
+      "AudioId1": "rbxassetid://5801257793",
+      "IsDualTrack": false,
+      "Duration": "00:02"
+    }
+  ]
 }
